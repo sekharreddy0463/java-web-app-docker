@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Good Morning</h2>
+			<h2>Devops demo for accentuer</h2>
 			<h3>Contact @ +91-11111111NNNNNN ,+91-222222222333</h3>
 		</div>	
 	</div>
